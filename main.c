@@ -15,18 +15,12 @@ int main()
     scanf("%d", &x);
 
     if (x %2== 0)
-        printf("par");
+        printf("\n par");
 
         else
-            printf("impar");
+            printf("\n impar");
 
-     return 0;
-
-
-
-
-
-
-
+     //return 0;
+     getch();
 
 }
